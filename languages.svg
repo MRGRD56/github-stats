@@ -134,25 +134,25 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 39.614%;
+  width: 39.612%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 22.108%;
+  width: 22.107%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 10.062%;
+  width: 10.061%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 6.152%;
+  width: 6.151%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 5.552%;
+  width: 5.557%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.219%;
+  width: 4.218%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 3.750%;
+  width: 3.749%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
   width: 3.121%;
@@ -315,7 +315,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dart</span>
-  <span class="percent">5.55%</span>
+  <span class="percent">5.56%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
